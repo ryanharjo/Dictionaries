@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dictionaries_Harjo_Ryan/1.0.0": {
+        "runtime": {
+          "Dictionaries_Harjo_Ryan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionaries_Harjo_Ryan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
